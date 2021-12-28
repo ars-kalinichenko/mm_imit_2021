@@ -1,0 +1,11 @@
+1. Написать программу, которая получает от пользователя категорию:
+["animal","career","celebrity","dev","explicit","fashion","food","history",
+"money","movie","music","political","religion","science","sport","travel"]
+
+2. Получить и вывести шутку от Чак-Чака: https://api.chucknorris.io/jokes/random?category={category}
+
+3*. Найти библиотеку для перевода en->ru и перевести шутку
+
+4. С помощью библиотеки pytube загрузить видео (ссылку вводит пользователь)
+
+5*. Создать QR-код для ссылки из 4 задания с помощью https://pypi.org/project/qrcode/
